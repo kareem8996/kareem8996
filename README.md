@@ -19,8 +19,8 @@ Deep Learning Specialization, Coursera, 2023: Completed a series of courses cove
 In my free time, I enjoy exploring new AI algorithms and techniques, participating in AI competitions, and contributing to open-source projects. I'm also passionate about the intersection of AI with other fields such as healthcare, finance, and robotics.
 
 ## Contact
-Email: kareem.abouelseoud@hotmail.com
-LinkedIn: https://www.linkedin.com/in/kareem-abouelseoud/
+- Email: kareem.abouelseoud@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/kareem-abouelseoud/
 
 ## Let's Connect!
 I'm always eager to connect with fellow AI enthusiasts, researchers, and practitioners. Feel free to reach out if you'd like to collaborate on projects or discuss AI-related topics.
